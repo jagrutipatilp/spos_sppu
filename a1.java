@@ -43,7 +43,7 @@ class pooltab {
 }
 
 /* Main class */
-public class Pass1 {
+public class a1 {
     public static void main(String args[]) {
         String input[][] = {
                 {null, "START", "100", null},
