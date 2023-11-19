@@ -1,0 +1,114 @@
+Assignment No : 2
+Title: GOMS model – Answer Assessment Questions.
+
+Problem Statement: Implement GOMS modelling technique to model user’s behavior
+in given scenario
+Learning Objectives:
+Usability assessment of a given interface
+Model user behavior in terms of GOMS (Goals, Operators, Methods and Selection
+Learn how to predict steps/time it will take a user to carry out a goal using GOMS
+Model.
+Learning Outcomes:
+Improve human-computer interaction efficiency by eliminating useless or unnecessary
+interactions.
+Using GOMS modelling for usability information when the system is in the earliest of
+design phases.
+Improve the performance of a cognitive skill, eliminate unnecessary operators from
+the method used to do the task.
+Provides hierarchical task description for a specific activity.
+Requirements:
+Specific scenario of user-interaction – Answer Assessment Questions.
+Theory:
+Goals, operators, methods, and selection rules is a method derived from human-
+computer interaction (HCI) and constructs a description of human performance. The
+level of granularity will vary based on the needs of the analysis.
+The Goal is what the user wants to accomplish.
+The Operator is what the user does to accomplish the goal.
+The Method is a series of operators that are used to accomplish the goal.
+Selection rules are used if there are multiple methods, to determine how one was
+selected over the others.Goal: Answer Assessment Questions.
+Operators:
+1.
+O1: Move the mouse pointer to a specific location.
+2. O2: Click the left mouse button.
+3. O3: Type on the keyboard.
+4. O4: Read information on the screen.
+5. O5: Make decisions based on displayed information.
+Methods:
+Method 1: Typing Response:
+M1: Perceive: Read the question.
+M2: Retrieve: Recall related knowledge or information.
+M3: Decide: Compose an answer.
+M4: Act: Physically type the response in the chat input field and click "Send."Method 2: Copy-Paste Response:
+M1: Read the question.
+M2: Recall a pre-existing answer.
+M3: Determine if the pre-existing answer is suitable.
+M4: Copy and paste the answer into the chat input field and click "Send."
+Method 3: Attachment Upload:
+M1: Read the question.
+M2: Locate a relevant file or attachment.
+M3: Determine if attaching a file is necessary.
+M4: Click on the attachment button, select the file, and send it as a response.
+Method 4: Emoticon/Emoji Responses:
+M1: Read the question.
+M2: Recall an emoticon or emoji that expresses the desired sentiment.
+M3: Determine if adding an emoticon or emoji is appropriate.
+M4: Click on the emoticon/emoji button, choose the expression, and send it.
+Method 5: Navigate Previous Answer:
+M1: Review the previously typed response.
+M2: Recall the part of the response that needs editing.
+M3: Decide on the changes to be made.
+M4: Use arrow keys to navigate and edit the response, then click "Send."
+Selection Rules:
+Typing Response:
+- Choose this method when the question requires a detailed or custom response.
+- This method is suitable for open-ended questions or when the user needs to provide a specific
+answer not covered by other methods.
+Copy-Paste Response:
+- Choose this method when a previously written response is highly relevant to the current question.
+- This method is suitable for frequently asked questions or when consistency in responses is crucial.
+Attachment Upload:
+- Choose this method when the question or response requires sharing documents, images, or files.
+- This method is suitable for scenarios where visual or multimedia content is necessary.Emoticon/Emoji Responses:
+- Choose this method when the user wants to convey emotions or sentiments along with the
+response.
+Navigate Previous Answer:
+- Choose this method when the user needs to modify a response that was already typed.
+- This method is suitable when a response contains errors or needs refinement before sending.
+Goal: Check progress toward a company assessment.
+Operators:
+1.
+O1: Move the mouse pointer to a specific location.
+2. O2: Click the left mouse button.
+3. O3: Type on the keyboard.
+4. O4: Read information on the screen.
+5. O5: Make decisions based on displayed information.Methods:
+Method 1: Visual Inspection:
+M1: Observe the GUI interface and locate the progress bar.
+M2: Identify the progress bar as the indicator of your assessment progress.
+M3: Decide whether to check your progress or not.
+M4: Move the cursor to the progress bar, click it to reveal the progress percentage,
+and read it.
+2. Expanding and Checking Progress:
+M1: Observe the GUI interface and locate the progress bar.
+M2: Recognize that the progress bar may contain detailed information when
+expanded.
+M3: Decide to check detailed progress.
+M4: Expand: Use arrow keys to navigate and expand the progress bar to reveal
+detailed information.
+M5: Check Details: Read the detailed progress information.
+3.Hover for Details:
+M1: Observe the GUI interface and locate the progress bar.
+M2: Understand that hovering over the progress bar may provide additional details.
+M3: Decide to check detailed progress.
+M4: Hover: Move the mouse cursor over the progress bar to reveal detailed progress
+information.
+Selection Rules:
+- Use the Visual Inspection method for a quick overview of your progress using the progress
+bar.
+- Choose the Expanding and Checking Progress method when you need more detailed
+information, and the GUI supports expanding the progress bar.
+- Opt for the Hover for Details method if hovering over the progress bar provides convenient
+and detailed progress information
+Conclusion: We have successfully understood the GOMS model with respect to given
+GUI to have better usability
