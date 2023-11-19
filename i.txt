@@ -1,0 +1,15 @@
+start 200
+add creg,sum
+mov areg,='7'
+add areg,creg
+ltorg
+mov creg,='5'
+origin 400
+add areg,breg
+ltorg
+add areg,='2'
+mov creg,='1'
+mov areg,creg
+sum dc '08'
+xyz ds 30
+end
